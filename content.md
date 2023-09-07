@@ -5,7 +5,7 @@
 
 Here is a collection of useful tips for working on your projects. In particular, there are many workspace (i.e. VSCode in Codespaces, Gitpod, or Local) keyboard shortcuts below that you may find useful.
 
-Remember, **Gitpod and Codespaces will delete inactive workspaces after a set number of days**. If you want to save the changes you've made for longer, you can [push your changes to GitHub](https://learn.firstdraft.com/lessons/50#push-to-github).
+Remember, **Gitpod and Codespaces will delete inactive workspaces after a set number of days**. If you want to save the changes you've made for longer, you can [push your changes to GitHub](https://learn.firstdraft.com/lessons/50-git-commit-and-push#push-to-github).
 
 ## Forcing Chrome to "Hard" Refresh
 
