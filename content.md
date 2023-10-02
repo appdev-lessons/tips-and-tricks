@@ -43,7 +43,7 @@ Your HTML document should now have the latest CSS and any other linked assets (l
 
 #### Jump to beginning of line
 
-You can't use your mouse at the command line, so it's important to know how to move around quickly so you're not restricted to just using your arrows. Jump back to the beginning of the line with <kbd>Ctrl</kbd> + <kbd>A</kbd>:
+You can't use your mouse at the command line, so it's important to know how to move around quickly so you're not restricted to just using your arrows. Jump back to the beginning of the line with <kbd>Ctrl</kbd> + <kbd>A</kbd> (If that does not work on a Mac keyboard, you can try <kbd>Cmd</kbd> + <kbd>←</kbd>):
 
 <!-- ![](assets/technical-setup/back-to-beginning.gif) -->
 ![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1677021998/back-to-beginning_u8uz30.gif)
